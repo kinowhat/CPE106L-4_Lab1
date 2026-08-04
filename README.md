@@ -1,1 +1,3 @@
 # CPE106L-4_Lab1
+
+This python code is a recreation of a pomodoro study timer. When running the code, it prompts the user for the lengths of the study/work timer, then the rest timer, and how many cycles. It will automatically start counting down until it finishes the lenghts of the timers and cycles. The user can type in "Ctrl + C" anytime to stop the program. If the user wants to make a new timer or restart, they must rerun the program again.
